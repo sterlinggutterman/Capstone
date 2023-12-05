@@ -1,0 +1,2666 @@
+[
+	{
+		"payment_id" : 667,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 5881,
+		"amount" : 2.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 668,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 6653,
+		"amount" : 4.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 669,
+		"customer_id" : 25,
+		"staff_id" : 2,
+		"rental_id" : 6905,
+		"amount" : 2.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 670,
+		"customer_id" : 25,
+		"staff_id" : 2,
+		"rental_id" : 8667,
+		"amount" : 2.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 671,
+		"customer_id" : 25,
+		"staff_id" : 2,
+		"rental_id" : 8878,
+		"amount" : 0.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 672,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 9140,
+		"amount" : 8.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 673,
+		"customer_id" : 25,
+		"staff_id" : 2,
+		"rental_id" : 9334,
+		"amount" : 2.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 674,
+		"customer_id" : 25,
+		"staff_id" : 2,
+		"rental_id" : 9922,
+		"amount" : 2.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 675,
+		"customer_id" : 25,
+		"staff_id" : 2,
+		"rental_id" : 10103,
+		"amount" : 2.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 676,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 10324,
+		"amount" : 5.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 677,
+		"customer_id" : 25,
+		"staff_id" : 2,
+		"rental_id" : 10860,
+		"amount" : 2.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 678,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 10916,
+		"amount" : 2.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 679,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 11642,
+		"amount" : 0.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 680,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 12922,
+		"amount" : 0.99,
+		"payment_date_key" : 20050819
+	},
+	{
+		"payment_id" : 681,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 14193,
+		"amount" : 4.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 682,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 14236,
+		"amount" : 4.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 683,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 15512,
+		"amount" : 0.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 684,
+		"customer_id" : 25,
+		"staff_id" : 1,
+		"rental_id" : 15972,
+		"amount" : 5.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 685,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 796,
+		"amount" : 2.99,
+		"payment_date_key" : 20050529
+	},
+	{
+		"payment_id" : 686,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 1105,
+		"amount" : 2.99,
+		"payment_date_key" : 20050531
+	},
+	{
+		"payment_id" : 687,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 1440,
+		"amount" : 5.99,
+		"payment_date_key" : 20050615
+	},
+	{
+		"payment_id" : 688,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 1706,
+		"amount" : 4.99,
+		"payment_date_key" : 20050616
+	},
+	{
+		"payment_id" : 689,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 2093,
+		"amount" : 9.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 690,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 2416,
+		"amount" : 3.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 691,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 2421,
+		"amount" : 6.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 692,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 2532,
+		"amount" : 4.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 693,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 2745,
+		"amount" : 4.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 694,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 4065,
+		"amount" : 2.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 695,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 4274,
+		"amount" : 4.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 696,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 4382,
+		"amount" : 4.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 697,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 4402,
+		"amount" : 0.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 698,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 4431,
+		"amount" : 6.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 699,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 4536,
+		"amount" : 3.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 700,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 4641,
+		"amount" : 6.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 701,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 5437,
+		"amount" : 2.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 702,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 6149,
+		"amount" : 1.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 703,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 6243,
+		"amount" : 2.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 704,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 7328,
+		"amount" : 0.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 705,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 8241,
+		"amount" : 4.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 706,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 9484,
+		"amount" : 0.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 707,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 10386,
+		"amount" : 3.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 708,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 10996,
+		"amount" : 3.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 709,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 11314,
+		"amount" : 2.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 710,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 11338,
+		"amount" : 0.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 711,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 11744,
+		"amount" : 5.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 712,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 13111,
+		"amount" : 4.99,
+		"payment_date_key" : 20050819
+	},
+	{
+		"payment_id" : 713,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 14183,
+		"amount" : 4.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 714,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 14192,
+		"amount" : 8.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 715,
+		"customer_id" : 26,
+		"staff_id" : 2,
+		"rental_id" : 14603,
+		"amount" : 1.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 716,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 14677,
+		"amount" : 7.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 717,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 15384,
+		"amount" : 2.99,
+		"payment_date_key" : 20050822
+	},
+	{
+		"payment_id" : 718,
+		"customer_id" : 26,
+		"staff_id" : 1,
+		"rental_id" : 15722,
+		"amount" : 7.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 719,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 787,
+		"amount" : 2.99,
+		"payment_date_key" : 20050529
+	},
+	{
+		"payment_id" : 720,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 1310,
+		"amount" : 4.99,
+		"payment_date_key" : 20050615
+	},
+	{
+		"payment_id" : 721,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 1480,
+		"amount" : 4.99,
+		"payment_date_key" : 20050615
+	},
+	{
+		"payment_id" : 722,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 1699,
+		"amount" : 2.99,
+		"payment_date_key" : 20050616
+	},
+	{
+		"payment_id" : 723,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 1960,
+		"amount" : 3.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 724,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 2512,
+		"amount" : 2.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 725,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 2815,
+		"amount" : 4.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 726,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 3038,
+		"amount" : 1.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 727,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 3420,
+		"amount" : 3.99,
+		"payment_date_key" : 20050621
+	},
+	{
+		"payment_id" : 728,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 4038,
+		"amount" : 0.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 729,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 4510,
+		"amount" : 5.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 730,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 5552,
+		"amount" : 0.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 731,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 5736,
+		"amount" : 4.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 732,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 6115,
+		"amount" : 0.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 733,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 6562,
+		"amount" : 5.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 734,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 6658,
+		"amount" : 4.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 735,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 7927,
+		"amount" : 1.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 736,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 9244,
+		"amount" : 0.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 737,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 9636,
+		"amount" : 5.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 738,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 9673,
+		"amount" : 7.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 739,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 9908,
+		"amount" : 4.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 740,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 10794,
+		"amount" : 7.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 741,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 10852,
+		"amount" : 4.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 742,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 11234,
+		"amount" : 0.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 743,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 11661,
+		"amount" : 8.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 744,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 11740,
+		"amount" : 6.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 745,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 12021,
+		"amount" : 5.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 746,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 12461,
+		"amount" : 0.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 747,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 12531,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 748,
+		"customer_id" : 27,
+		"staff_id" : 2,
+		"rental_id" : 13816,
+		"amount" : 4.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 749,
+		"customer_id" : 27,
+		"staff_id" : 1,
+		"rental_id" : 15048,
+		"amount" : 0.99,
+		"payment_date_key" : 20050822
+	},
+	{
+		"payment_id" : 750,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 388,
+		"amount" : 2.99,
+		"payment_date_key" : 20050527
+	},
+	{
+		"payment_id" : 751,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 868,
+		"amount" : 2.99,
+		"payment_date_key" : 20050530
+	},
+	{
+		"payment_id" : 752,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 1240,
+		"amount" : 2.99,
+		"payment_date_key" : 20050615
+	},
+	{
+		"payment_id" : 753,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 1543,
+		"amount" : 4.99,
+		"payment_date_key" : 20050616
+	},
+	{
+		"payment_id" : 754,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 2299,
+		"amount" : 3.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 755,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 2604,
+		"amount" : 0.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 756,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 3231,
+		"amount" : 0.99,
+		"payment_date_key" : 20050621
+	},
+	{
+		"payment_id" : 757,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 3845,
+		"amount" : 0.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 758,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 4704,
+		"amount" : 0.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 759,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 4951,
+		"amount" : 4.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 760,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 5653,
+		"amount" : 2.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 761,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 5817,
+		"amount" : 5.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 762,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 6032,
+		"amount" : 0.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 763,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 6476,
+		"amount" : 0.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 764,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 7580,
+		"amount" : 9.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 765,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 8464,
+		"amount" : 4.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 766,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 8901,
+		"amount" : 2.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 767,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 9544,
+		"amount" : 2.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 768,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 9593,
+		"amount" : 4.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 769,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 9705,
+		"amount" : 4.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 770,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 10116,
+		"amount" : 2.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 771,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 10294,
+		"amount" : 6.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 772,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 11444,
+		"amount" : 2.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 773,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 11856,
+		"amount" : 3.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 774,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 12190,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 775,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 12359,
+		"amount" : 0.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 776,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 12708,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 777,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 13783,
+		"amount" : 4.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 778,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 14540,
+		"amount" : 2.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 779,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 15445,
+		"amount" : 4.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 780,
+		"customer_id" : 28,
+		"staff_id" : 1,
+		"rental_id" : 15491,
+		"amount" : 2.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 781,
+		"customer_id" : 28,
+		"staff_id" : 2,
+		"rental_id" : 12938,
+		"amount" : 2.99,
+		"payment_date_key" : 20060214
+	},
+	{
+		"payment_id" : 782,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 194,
+		"amount" : 1.99,
+		"payment_date_key" : 20050526
+	},
+	{
+		"payment_id" : 783,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 2655,
+		"amount" : 0.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 784,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 2673,
+		"amount" : 0.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 785,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 2701,
+		"amount" : 7.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 786,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 2735,
+		"amount" : 2.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 787,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 2801,
+		"amount" : 2.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 788,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 2923,
+		"amount" : 2.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 789,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 3324,
+		"amount" : 2.99,
+		"payment_date_key" : 20050621
+	},
+	{
+		"payment_id" : 790,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 4262,
+		"amount" : 6.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 791,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 4313,
+		"amount" : 0.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 792,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 4535,
+		"amount" : 0.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 793,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 5442,
+		"amount" : 10.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 794,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 5857,
+		"amount" : 1.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 795,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 7237,
+		"amount" : 3.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 796,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 7451,
+		"amount" : 6.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 797,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 7453,
+		"amount" : 0.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 798,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 8673,
+		"amount" : 2.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 799,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 9392,
+		"amount" : 4.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 800,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 9946,
+		"amount" : 4.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 801,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 10543,
+		"amount" : 5.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 802,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 10899,
+		"amount" : 1.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 803,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 11079,
+		"amount" : 4.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 804,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 11962,
+		"amount" : 2.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 805,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 12488,
+		"amount" : 4.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 806,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 12508,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 807,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 12569,
+		"amount" : 6.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 808,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 12615,
+		"amount" : 6.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 809,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 13173,
+		"amount" : 2.99,
+		"payment_date_key" : 20050819
+	},
+	{
+		"payment_id" : 810,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 13436,
+		"amount" : 0.99,
+		"payment_date_key" : 20050819
+	},
+	{
+		"payment_id" : 811,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 13777,
+		"amount" : 2.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 812,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 13832,
+		"amount" : 3.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 813,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 14174,
+		"amount" : 0.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 814,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 14703,
+		"amount" : 4.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 815,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 14985,
+		"amount" : 7.99,
+		"payment_date_key" : 20050822
+	},
+	{
+		"payment_id" : 816,
+		"customer_id" : 29,
+		"staff_id" : 1,
+		"rental_id" : 14997,
+		"amount" : 5.99,
+		"payment_date_key" : 20050822
+	},
+	{
+		"payment_id" : 817,
+		"customer_id" : 29,
+		"staff_id" : 2,
+		"rental_id" : 15577,
+		"amount" : 0.99,
+		"payment_date_key" : 20060214
+	},
+	{
+		"payment_id" : 818,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 1874,
+		"amount" : 1.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 819,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 1895,
+		"amount" : 2.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 820,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 2154,
+		"amount" : 4.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 821,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 2730,
+		"amount" : 2.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 822,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 3964,
+		"amount" : 4.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 823,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 4471,
+		"amount" : 2.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 824,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 4642,
+		"amount" : 2.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 825,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 5028,
+		"amount" : 5.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 826,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 5108,
+		"amount" : 9.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 827,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 5289,
+		"amount" : 0.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 828,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 5972,
+		"amount" : 7.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 829,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 6249,
+		"amount" : 0.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 830,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 6359,
+		"amount" : 2.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 831,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 7394,
+		"amount" : 2.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 832,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 7769,
+		"amount" : 4.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 833,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 8030,
+		"amount" : 4.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 834,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 8038,
+		"amount" : 4.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 835,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 8083,
+		"amount" : 4.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 836,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 8641,
+		"amount" : 2.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 837,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 9309,
+		"amount" : 2.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 838,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 9551,
+		"amount" : 0.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 839,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 9641,
+		"amount" : 0.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 840,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 9998,
+		"amount" : 2.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 841,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 10235,
+		"amount" : 6.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 842,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 12240,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 843,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 12546,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 844,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 12758,
+		"amount" : 0.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 845,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 13435,
+		"amount" : 0.99,
+		"payment_date_key" : 20050819
+	},
+	{
+		"payment_id" : 846,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 13682,
+		"amount" : 4.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 847,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 14339,
+		"amount" : 0.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 848,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 14585,
+		"amount" : 2.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 849,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 15063,
+		"amount" : 4.99,
+		"payment_date_key" : 20050822
+	},
+	{
+		"payment_id" : 850,
+		"customer_id" : 30,
+		"staff_id" : 1,
+		"rental_id" : 15544,
+		"amount" : 4.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 851,
+		"customer_id" : 30,
+		"staff_id" : 2,
+		"rental_id" : 15829,
+		"amount" : 2.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 852,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 1656,
+		"amount" : 4.99,
+		"payment_date_key" : 20050616
+	},
+	{
+		"payment_id" : 853,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 1838,
+		"amount" : 1.99,
+		"payment_date_key" : 20050616
+	},
+	{
+		"payment_id" : 854,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 2233,
+		"amount" : 0.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 855,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 2341,
+		"amount" : 6.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 856,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 2396,
+		"amount" : 7.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 857,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 2438,
+		"amount" : 0.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 858,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 2530,
+		"amount" : 0.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 859,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 2648,
+		"amount" : 4.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 860,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 3117,
+		"amount" : 2.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 861,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 3172,
+		"amount" : 1.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 862,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 3205,
+		"amount" : 0.99,
+		"payment_date_key" : 20050621
+	},
+	{
+		"payment_id" : 863,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 3701,
+		"amount" : 4.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 864,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 3967,
+		"amount" : 4.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 865,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 4122,
+		"amount" : 6.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 866,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 4738,
+		"amount" : 9.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 867,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 6208,
+		"amount" : 3.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 868,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 6580,
+		"amount" : 4.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 869,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 7000,
+		"amount" : 1.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 870,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 7138,
+		"amount" : 3.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 871,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 7178,
+		"amount" : 2.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 872,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 7464,
+		"amount" : 2.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 873,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 8997,
+		"amount" : 0.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 874,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 12085,
+		"amount" : 4.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 875,
+		"customer_id" : 31,
+		"staff_id" : 1,
+		"rental_id" : 12377,
+		"amount" : 0.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 876,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 15682,
+		"amount" : 6.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 877,
+		"customer_id" : 31,
+		"staff_id" : 2,
+		"rental_id" : 15816,
+		"amount" : 6.99,
+		"payment_date_key" : 20050823
+	},
+	{
+		"payment_id" : 878,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 483,
+		"amount" : 4.99,
+		"payment_date_key" : 20050527
+	},
+	{
+		"payment_id" : 879,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 803,
+		"amount" : 4.99,
+		"payment_date_key" : 20050529
+	},
+	{
+		"payment_id" : 880,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 1067,
+		"amount" : 4.99,
+		"payment_date_key" : 20050531
+	},
+	{
+		"payment_id" : 881,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 1887,
+		"amount" : 6.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 882,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 2160,
+		"amount" : 0.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 883,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 2624,
+		"amount" : 5.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 884,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 2891,
+		"amount" : 1.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 885,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 3500,
+		"amount" : 2.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 886,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 4434,
+		"amount" : 2.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 887,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 4771,
+		"amount" : 2.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 888,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 4899,
+		"amount" : 0.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 889,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 5307,
+		"amount" : 9.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 890,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 5767,
+		"amount" : 0.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 891,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 5954,
+		"amount" : 2.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 892,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 6122,
+		"amount" : 3.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 893,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 6450,
+		"amount" : 2.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 894,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 7084,
+		"amount" : 6.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 895,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 7589,
+		"amount" : 5.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 896,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 7793,
+		"amount" : 2.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 897,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 8390,
+		"amount" : 5.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 898,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 8453,
+		"amount" : 2.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 899,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 8914,
+		"amount" : 2.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 900,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 11135,
+		"amount" : 4.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 901,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 11831,
+		"amount" : 4.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 902,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 12414,
+		"amount" : 9.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 903,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 13736,
+		"amount" : 8.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 904,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 13931,
+		"amount" : 1.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 905,
+		"customer_id" : 32,
+		"staff_id" : 1,
+		"rental_id" : 14075,
+		"amount" : 0.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 906,
+		"customer_id" : 32,
+		"staff_id" : 2,
+		"rental_id" : 14570,
+		"amount" : 5.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 907,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 165,
+		"amount" : 2.99,
+		"payment_date_key" : 20050526
+	},
+	{
+		"payment_id" : 908,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 1301,
+		"amount" : 10.99,
+		"payment_date_key" : 20050615
+	},
+	{
+		"payment_id" : 909,
+		"customer_id" : 33,
+		"staff_id" : 2,
+		"rental_id" : 3173,
+		"amount" : 8.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 910,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 4095,
+		"amount" : 5.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 911,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 5421,
+		"amount" : 0.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 912,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 5723,
+		"amount" : 4.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 913,
+		"customer_id" : 33,
+		"staff_id" : 2,
+		"rental_id" : 6280,
+		"amount" : 0.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 914,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 7992,
+		"amount" : 4.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 915,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 9040,
+		"amount" : 4.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 916,
+		"customer_id" : 33,
+		"staff_id" : 2,
+		"rental_id" : 9085,
+		"amount" : 4.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 917,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 9254,
+		"amount" : 1.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 918,
+		"customer_id" : 33,
+		"staff_id" : 2,
+		"rental_id" : 10335,
+		"amount" : 2.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 919,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 10870,
+		"amount" : 4.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 920,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 13241,
+		"amount" : 7.99,
+		"payment_date_key" : 20050819
+	},
+	{
+		"payment_id" : 921,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 13858,
+		"amount" : 2.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 922,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 13958,
+		"amount" : 7.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 923,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 14002,
+		"amount" : 0.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 924,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 14623,
+		"amount" : 0.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 925,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 15096,
+		"amount" : 5.99,
+		"payment_date_key" : 20050822
+	},
+	{
+		"payment_id" : 926,
+		"customer_id" : 33,
+		"staff_id" : 2,
+		"rental_id" : 15115,
+		"amount" : 2.99,
+		"payment_date_key" : 20050822
+	},
+	{
+		"payment_id" : 927,
+		"customer_id" : 33,
+		"staff_id" : 1,
+		"rental_id" : 12277,
+		"amount" : 0.99,
+		"payment_date_key" : 20060214
+	},
+	{
+		"payment_id" : 928,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 1900,
+		"amount" : 4.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 929,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 2257,
+		"amount" : 5.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 930,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 3150,
+		"amount" : 0.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 931,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 3508,
+		"amount" : 3.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 932,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 3911,
+		"amount" : 2.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 933,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 5188,
+		"amount" : 4.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 934,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 5643,
+		"amount" : 4.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 935,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 5918,
+		"amount" : 5.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 936,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 7015,
+		"amount" : 2.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 937,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 7124,
+		"amount" : 2.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 938,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 7532,
+		"amount" : 0.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 939,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 9160,
+		"amount" : 3.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 940,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 10523,
+		"amount" : 0.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 941,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 10615,
+		"amount" : 4.99,
+		"payment_date_key" : 20050801
+	},
+	{
+		"payment_id" : 942,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 11096,
+		"amount" : 0.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 943,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 11505,
+		"amount" : 2.99,
+		"payment_date_key" : 20050816
+	},
+	{
+		"payment_id" : 944,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 11701,
+		"amount" : 4.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 945,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 12286,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 946,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 12599,
+		"amount" : 2.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 947,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 12651,
+		"amount" : 0.99,
+		"payment_date_key" : 20050818
+	},
+	{
+		"payment_id" : 948,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 13371,
+		"amount" : 4.99,
+		"payment_date_key" : 20050819
+	},
+	{
+		"payment_id" : 949,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 13949,
+		"amount" : 2.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 950,
+		"customer_id" : 34,
+		"staff_id" : 1,
+		"rental_id" : 14686,
+		"amount" : 5.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 951,
+		"customer_id" : 34,
+		"staff_id" : 2,
+		"rental_id" : 14701,
+		"amount" : 7.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 952,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 47,
+		"amount" : 3.99,
+		"payment_date_key" : 20050525
+	},
+	{
+		"payment_id" : 953,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 424,
+		"amount" : 6.99,
+		"payment_date_key" : 20050527
+	},
+	{
+		"payment_id" : 954,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 1579,
+		"amount" : 0.99,
+		"payment_date_key" : 20050616
+	},
+	{
+		"payment_id" : 955,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 1989,
+		"amount" : 2.99,
+		"payment_date_key" : 20050617
+	},
+	{
+		"payment_id" : 956,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 2229,
+		"amount" : 4.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 957,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 2231,
+		"amount" : 0.99,
+		"payment_date_key" : 20050618
+	},
+	{
+		"payment_id" : 958,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 2743,
+		"amount" : 2.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 959,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 3112,
+		"amount" : 4.99,
+		"payment_date_key" : 20050620
+	},
+	{
+		"payment_id" : 960,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 3597,
+		"amount" : 2.99,
+		"payment_date_key" : 20050706
+	},
+	{
+		"payment_id" : 961,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 4098,
+		"amount" : 4.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 962,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 4990,
+		"amount" : 0.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 963,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 5013,
+		"amount" : 2.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 964,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 5323,
+		"amount" : 0.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 965,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 5916,
+		"amount" : 5.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 966,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 5963,
+		"amount" : 0.99,
+		"payment_date_key" : 20050710
+	},
+	{
+		"payment_id" : 967,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 6147,
+		"amount" : 5.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 968,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 6401,
+		"amount" : 4.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 969,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 6565,
+		"amount" : 4.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 970,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 6572,
+		"amount" : 4.99,
+		"payment_date_key" : 20050712
+	},
+	{
+		"payment_id" : 971,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 7140,
+		"amount" : 4.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 972,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 8822,
+		"amount" : 6.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 973,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 8971,
+		"amount" : 5.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 974,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 9033,
+		"amount" : 2.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 975,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 9579,
+		"amount" : 6.99,
+		"payment_date_key" : 20050731
+	},
+	{
+		"payment_id" : 976,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 11298,
+		"amount" : 1.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 977,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 11452,
+		"amount" : 7.99,
+		"payment_date_key" : 20050802
+	},
+	{
+		"payment_id" : 978,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 11645,
+		"amount" : 4.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 979,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 12055,
+		"amount" : 4.99,
+		"payment_date_key" : 20050817
+	},
+	{
+		"payment_id" : 980,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 13735,
+		"amount" : 2.99,
+		"payment_date_key" : 20050820
+	},
+	{
+		"payment_id" : 981,
+		"customer_id" : 35,
+		"staff_id" : 1,
+		"rental_id" : 14110,
+		"amount" : 0.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 982,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 14124,
+		"amount" : 2.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 983,
+		"customer_id" : 35,
+		"staff_id" : 2,
+		"rental_id" : 14735,
+		"amount" : 4.99,
+		"payment_date_key" : 20050821
+	},
+	{
+		"payment_id" : 984,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 349,
+		"amount" : 0.99,
+		"payment_date_key" : 20050527
+	},
+	{
+		"payment_id" : 985,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 716,
+		"amount" : 0.99,
+		"payment_date_key" : 20050529
+	},
+	{
+		"payment_id" : 986,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 2741,
+		"amount" : 0.99,
+		"payment_date_key" : 20050619
+	},
+	{
+		"payment_id" : 987,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 4135,
+		"amount" : 0.99,
+		"payment_date_key" : 20050707
+	},
+	{
+		"payment_id" : 988,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 4560,
+		"amount" : 4.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 989,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 4762,
+		"amount" : 4.99,
+		"payment_date_key" : 20050708
+	},
+	{
+		"payment_id" : 990,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 5403,
+		"amount" : 0.99,
+		"payment_date_key" : 20050709
+	},
+	{
+		"payment_id" : 991,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 6030,
+		"amount" : 0.99,
+		"payment_date_key" : 20050711
+	},
+	{
+		"payment_id" : 992,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 7205,
+		"amount" : 6.99,
+		"payment_date_key" : 20050727
+	},
+	{
+		"payment_id" : 993,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 7647,
+		"amount" : 0.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 994,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 7919,
+		"amount" : 6.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 995,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 8099,
+		"amount" : 0.99,
+		"payment_date_key" : 20050728
+	},
+	{
+		"payment_id" : 996,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 8391,
+		"amount" : 2.99,
+		"payment_date_key" : 20050729
+	},
+	{
+		"payment_id" : 997,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 8952,
+		"amount" : 4.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 998,
+		"customer_id" : 36,
+		"staff_id" : 1,
+		"rental_id" : 9369,
+		"amount" : 2.99,
+		"payment_date_key" : 20050730
+	},
+	{
+		"payment_id" : 999,
+		"customer_id" : 36,
+		"staff_id" : 2,
+		"rental_id" : 9805,
+		"amount" : 0.99,
+		"payment_date_key" : 20050731
+	}
+]
